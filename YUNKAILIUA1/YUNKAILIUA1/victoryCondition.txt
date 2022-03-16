@@ -1,0 +1,17 @@
+***************************************************************
+Victory condition:
+***************************************************************
+
+In order to ¡°win¡± the game the player must be able to do the 
+following: 
+-Identify the murderer by checking all suspects alibis (to
+confirm or disprove as true). 
+-Find and collect the bloodied murder weapon (located in a 
+random location of the map).  
+-Find the bloodied crime scene and gather the murderer and 
+all the suspects there. 
+-Accuse the person they think committed the crime. 
+-If they have the correct murder weapon, have found the correct 
+location and have accused the actual murderer, the player wins.
+-If one, some or all of the above are not correct, the player loses 
+and the murderer escapes!

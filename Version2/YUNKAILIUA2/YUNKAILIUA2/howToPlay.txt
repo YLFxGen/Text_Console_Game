@@ -1,0 +1,15 @@
+***************************************************************
+How to play:
+***************************************************************
+
+The game has 7 people, assigning one to be the victim, one to
+ be the murderer and the other 5 as innocent (but suspicious)
+ persons of interest. 
+Two pairs of suspects will alibi each other, while one will have no
+ alibi and the murderer will say they were with one of the others. 
+The player is the Detective trying to interview the suspects at the
+ scene by moving to different locations and questioning the people
+ found there, examining it to find evidence and/or the crime scene. 
+The player will use simple 1 or 2 word commands to input their 
+actions, such as MAP, GO GARDEN, QUESTION RUSSELL, SEARCH
+ CUP, SEARCH ROOM, etc.

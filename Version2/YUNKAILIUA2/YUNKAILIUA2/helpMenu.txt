@@ -1,0 +1,31 @@
+********************************************************************************************************************
+  Movement:
+********************************************************************************************************************
+
+To see the crime scene layout : MAP
+To move around the crime scene : GO roomName (for example : GO garden)
+To leave the case at any time : QUIT 
+
+********************************************************************************************************************
+  Rooms and Items:
+********************************************************************************************************************
+
+To search the current room(find the items and doubtful point(murder scene?) in this room) : SEARCH or SEARCH room
+To examine an item in the current room or in the inventory : Examine itemName (for example : Examine knife)
+To take an item from the current room : TAKE itemName (for example : TAKE knife)
+To drop an item in the current room : DROP itemName (for exampke : DROP knife)
+To see what you are currently carrying(inventory) : I
+
+********************************************************************************************************************
+  Suspects:
+********************************************************************************************************************
+
+To question a suspect(get his alibi information) : QUESTION suspectFirstName (for example : QUESTION Mike)
+To accuse a suspect of murder(You have to GATHER first) : ACCUSE suspectFirstName (for example : ACCUSE Mike)
+To gather all the suspects in the current room : GATHER 
+To review questioned suspects notes(review all the conversations between player and suspects) : REVIEW
+
+********************************************************************************************************************
+  General:
+********************************************************************************************************************
+To review this help menu : HELP

@@ -1,0 +1,6 @@
+knife
+key
+wallet
+hammer
+comb
+scissors

@@ -1,0 +1,12 @@
+study
+bedroom
+bathroom 
+laundry 
+hall1 
+hall2 
+ballroom 
+balcony 
+porch 
+lounge 
+game 
+garden
